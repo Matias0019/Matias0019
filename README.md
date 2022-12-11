@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Matías. I'm from Argentina.</h1>
 <h3 align="center">Developer Full-Stack Jr</h3>
 
-- 🔭 I’m currently working on **Web development, photograph and marketingy**
+- 🔭 I’m currently working on **Web development, photography and marketing**
 
 - 🌱 I’m currently learning **React and Python**
 
