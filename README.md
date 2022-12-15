@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Matías. I'm from Argentina.</h1>
-<h3 align="center">Developer Full-Stack Jr</h3>
+<h3 align="center">I'm Developer Full-Stack Jr</h3>
 
 - 🔭 I’m currently working on **Web development, photography and marketing**
 
